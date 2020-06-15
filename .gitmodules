@@ -5,3 +5,7 @@
 	path = liangcici.github.io
 	url = https://github.com/liangcici/liangcici.github.io
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/liangcici/liangcici.github.io.git
+	branch = master
